@@ -44,6 +44,7 @@ nav ul {
     text-transform: capitalize;
 }
 
+
 nav ul li a {
     color: #333;
     padding: var(--block-gap);
