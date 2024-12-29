@@ -1,5 +1,9 @@
 @import url(classes.css);
 
+html {
+    scroll-padding-top: 106px;
+}
+
 body {
     font-family: var(--font-default);
     color: var(--color-default);
